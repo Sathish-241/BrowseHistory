@@ -1,0 +1,10 @@
+.no-history-container {
+  display: flex;
+  justify-content: center;
+
+  height: 80%;
+}
+.no-history-text {
+  font-family: Roboto;
+  align-self: flex-end;
+}
